@@ -1,0 +1,21 @@
+.sBox{
+    height:40px; 
+    font-size:17px;
+    font-weight:bold;
+}
+
+.bYazi{
+    font-size:17px;
+}
+.skin-yellow-light .main-header .navbar{
+    background-color: #e8a842;
+}
+.skin-yellow-light .main-header .logo{
+    background-color: inherit;
+}
+.skin-yellow-light .main-header .logo:hover{
+    background-color: #e0e0ad;
+}
+.skin-yellow-light .wrapper, .skin-yellow-light .main-sidebar, .skin-yellow-light .left-side{
+    background-color: #e0e0ad;
+}   

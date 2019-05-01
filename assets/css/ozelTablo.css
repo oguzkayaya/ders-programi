@@ -1,0 +1,13 @@
+table[class="table1"] {
+    border-collapse: collapse;
+    font-size:12pt;
+    text-align: center;
+}
+table[class="table1"], th[class="th1"], td[class="td1"] {
+    border: 1px solid #8e8e8e;
+    
+}
+tr[class="tr1"]:nth-child(even){background-color: #f2f2f2}
+tr[class="tr1"]:nth-child(odd){background-color: #b4c9ea}
+td[class="td1"]:first-child{background-color: #81ca73}
+tr[class="tr1"]:first-child{background-color: #81ca73}

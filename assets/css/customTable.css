@@ -1,0 +1,52 @@
+thead{
+    background-color: #80bfff;
+    color: white;
+    font-size:20px;
+}
+table{
+    background-color: #e0e4d2;
+    font-size: 15px;
+}
+tbody > tr{
+    font-weight: bold;
+}
+tbody > tr td:last-child{
+    font-weight: normal;
+}
+.islemButon{
+    width:80px;
+}
+input[type="text"],input[type="number"]{
+    padding:1px 1px;
+    text-align:center;
+}
+.table > tbody > tr > td {
+    vertical-align: middle;
+}
+.table > thead > tr > td {
+    vertical-align: middle;
+}
+.table-hover>tbody>tr:hover {
+    background-color: #e7b8d473;
+}
+.tBaslik{
+    background-color: lightcoral;
+}
+
+
+
+.cerTablo > tbody > tr > td{
+    border: solid 3px #f4f4f4;
+    min-width:125px; 
+}
+.cerTablo > tbody > tr > td{
+    font-weight: normal;
+}
+.cerTablo > tbody > tr > td[class="tBaslik"]{
+    font-weight: bold;
+}
+
+.cerTablo > tbody > tr > td > hr{
+    border: 1px solid lightcoral;
+    margin:10px;
+}

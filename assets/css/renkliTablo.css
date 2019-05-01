@@ -1,0 +1,14 @@
+table {
+    border-collapse: collapse;
+    font-size:12pt;
+    text-align: center;
+}
+
+table, th, td {
+    border: 1px solid black;
+    padding: 5px 30px;
+}
+thead { 
+background-color: #80bfff;
+color: white;
+}

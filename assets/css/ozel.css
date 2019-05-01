@@ -1,0 +1,52 @@
+        .yRenk{
+            color: #1f2123;
+        }
+        .tborder {
+            background: #564c4c;
+            color: #f2f2f2;
+        }
+        .nav-item{
+            margin: 80px;
+            color: #eddada;
+            padding:10px 5px;
+            
+
+        }
+        
+        body{
+            width:100%; 
+        }
+
+        .anaAlan{
+            margin: auto;
+            width: 80%; 
+            font-size:15px; 
+            text-align:center;
+        }
+
+        .buton{
+            background-color: #068596;
+            border: solid 1px #068596;
+            box-sizing: border-box;
+            padding: 5px 20px;
+        }
+        .buton:hover{
+            background-color:#184d74;
+            border: solid 1px #184d74;
+            color:white;
+        }
+        .buton[disabled]:hover{
+            color:red;
+        }
+
+        select{
+            width:300px;
+            font-size:17px;
+            padding:5px 10px;
+            margin:0 10px;
+        }
+
+        
+        
+
+        
